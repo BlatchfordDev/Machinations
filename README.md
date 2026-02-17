@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Machinations v4.05 (Archived Educational Build)</h1>
 
-An archived build of **Machinations v4.05** by Joris Dormans (2009–2013), with an additional auto-scaling wrapper for modern displays.
+An archived build of **Machinations v4.05** by Joris Dormans (2009–2013), with an additional auto-scaling wrapper for modern screen resolutions.
 
 This repository is based on the preserved and resized builds from [DleanJeans/Machinations](https://github.com/DleanJeans/Machinations).
 
