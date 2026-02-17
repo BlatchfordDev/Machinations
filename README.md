@@ -1,16 +1,17 @@
-# Machinations v4.05 (Archived Educational Build)
+<div align="center">
+<h1>Machinations v4.05 (Archived Educational Build)</h1>
 
 An archived build of **Machinations v4.05** by Joris Dormans (2009–2013), with an additional auto-scaling wrapper for modern displays.
 
-This repository is based on the preserved and resized builds from  
-[DleanJeans/Machinations](https://github.com/DleanJeans/Machinations).
+This repository is based on the preserved and resized builds from [DleanJeans/Machinations](https://github.com/DleanJeans/Machinations).
 
-This repository exists to preserve access to the legacy Flash-based desktop version for educational and offline use.
+`This repository exists to preserve access to the legacy Flash-based desktop version for educational, research, and offline use.`
+</div>
 
----
+<br>
 
 <details open>
-<summary><strong>WHY</strong></summary>
+<summary><strong>💡 WHY</strong></summary>
 
 The modern web-based version at https://machinations.io requires a stable internet connection.
 
@@ -20,12 +21,12 @@ For users with unreliable or limited connectivity, this legacy build allows:
 - Local experimentation.  
 - Educational reference.  
 
-This repo provides the archived SWF along with optional auto-scaling improvements for modern screen resolutions.
+This repository includes the archived SWF, resized variants, and an auto-scaling build for modern screen resolutions.
 
 </details>
-
+<br>
 <details>
-<summary><strong>USAGE</strong></summary>
+<summary><strong>🚀 USAGE</strong></summary>
 
 > ### 🟢 Recommended (Offline)
 > Run using **Ruffle Desktop**:  
@@ -44,9 +45,9 @@ This repo provides the archived SWF along with optional auto-scaling improvement
 > - Other Flash runtimes may behave differently.
 
 </details>
-
+<br>
 <details>
-<summary><strong>CREDITS & SOURCES</strong></summary>
+<summary><strong>📚 CREDITS & SOURCES</strong></summary>
 
 > **Original SWF archive source:**
 > 
@@ -69,19 +70,20 @@ This repo provides the archived SWF along with optional auto-scaling improvement
 ## Modifications in This Repository
 
 - Auto-scaling wrapper (2026) - BlatchfordDev.
-- Resized SWF's by DleanJeans.
+- Resized builds (2020) originally prepared by DleanJeans.
 - Preserved legacy builds (800×600 and resized variants).  
 - GitHub Pages deployment for browser-based access.  
 
 </details>
-
+<br>
 <details>
-<summary><strong>DISCLAIMER</strong></summary>
+<summary><strong>⚖️ DISCLAIMER</strong></summary>
 
+```
 This is an archived educational build of Machinations v4.05.
 
-It is not affiliated with or endorsed by the original author or Machinations.io.
+It is **not affiliated with or endorsed by** the original author or Machinations.io.
 
 All credit for the original software belongs to Joris Dormans.
-
+```
 </details>
