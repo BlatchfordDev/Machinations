@@ -1,9 +1,3 @@
-# Available Resolutions
-Open an issue should you need another aspect ratio/resolution other than 16:9:
-- [1920x1080](https://dleanjeans.github.io/Machinations?size=1920x1080)
-- [1366x768](https://dleanjeans.github.io/Machinations)
-
-
 # Why
 The new and in-the-cloud web version https://machinations.io requires a stable internet connection which can be unreliable and frustrating at times (for me).
 
@@ -16,4 +10,10 @@ Alternative: [ravaught.wixsite.com](https://ravaught.wixsite.com/dynamicworlds/s
 
 Google Search: `machinations.swf`
 
+Forked from [DleanJeans/Machinations](https://github.com/DleanJeans/Machinations)
+
 Resized using [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
+
+# NOTE
+Recommended usage is through Ruffle's Desktop Application - [https://ruffle.rs/](https://ruffle.rs/).
+The 'auto-scale.swf' has not been tested elsewhere.
